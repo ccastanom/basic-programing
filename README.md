@@ -1,2 +1,2 @@
-# programación-básica
+# PDD
 Repositorio de codigo
